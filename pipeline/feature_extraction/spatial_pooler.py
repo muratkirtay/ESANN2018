@@ -1,4 +1,3 @@
-import os
 import numpy as np
 from mHTM.region import SPRegion
 import scipy.io as sio
@@ -15,8 +14,7 @@ def main():
         'ninputs': nbits, 'ncolumns': 1024, 'nactive': int(nbits * 0.2), 'global_inhibition': True,
         'trim': 1e-4, 'disable_boost': True, 'seed': seed, 'nsynapses': 100, 'seg_th': 10,
         'syn_th': 0.5, 'pinc': 0.001, 'pdec': 0.001, 'pwindow': 0.5, 'random_permanence': True,
-        'nepochs': 10, 'log_dir': os.path.join(base_path, '1-1')
-    }
+        'nepochs': 10 }
 
     sp = SPRegion(**kargs)
 
