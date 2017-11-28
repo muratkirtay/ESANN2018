@@ -1,0 +1,534 @@
+Experiment date: Thu Nov 16 19:12:36 2017
+Experiment Description: Multi class SVM on SDR Values
+Running for training: 5.00 validation: 5.00 test: 90.00 
+Running for lengths training:  3, validation: 3, test: 66 
+
+Learning rate: 1.000000E-01 Regularization strength: 1.000000E-05, TR acc: 99.333333, Val acc: 77.333333 Tst acc: 75.742424
+Learning rate: 1.000000E-01 Regularization strength: 1.500000E-05, TR acc: 99.333333, Val acc: 77.000000 Tst acc: 76.060606
+Learning rate: 1.000000E-01 Regularization strength: 2.000000E-05, TR acc: 99.333333, Val acc: 77.333333 Tst acc: 75.803030
+Learning rate: 1.000000E-01 Regularization strength: 2.500000E-05, TR acc: 100.000000, Val acc: 76.666667 Tst acc: 76.060606
+Learning rate: 1.000000E-01 Regularization strength: 3.000000E-05, TR acc: 99.333333, Val acc: 76.666667 Tst acc: 75.893939
+Learning rate: 1.000000E-01 Regularization strength: 4.000000E-05, TR acc: 100.000000, Val acc: 76.333333 Tst acc: 75.848485
+Learning rate: 1.000000E-01 Regularization strength: 5.000000E-05, TR acc: 99.666667, Val acc: 77.333333 Tst acc: 75.848485
+------------------------------------------------------
+Learning rate: 1.000000E-02 Regularization strength: 1.000000E-05, TR acc: 99.333333, Val acc: 82.000000 Tst acc: 82.030303
+Learning rate: 1.000000E-02 Regularization strength: 1.500000E-05, TR acc: 99.333333, Val acc: 82.000000 Tst acc: 81.954545
+Learning rate: 1.000000E-02 Regularization strength: 2.000000E-05, TR acc: 99.333333, Val acc: 82.000000 Tst acc: 82.000000
+Learning rate: 1.000000E-02 Regularization strength: 2.500000E-05, TR acc: 99.333333, Val acc: 82.000000 Tst acc: 82.000000
+Learning rate: 1.000000E-02 Regularization strength: 3.000000E-05, TR acc: 99.333333, Val acc: 82.000000 Tst acc: 81.984848
+Learning rate: 1.000000E-02 Regularization strength: 4.000000E-05, TR acc: 99.333333, Val acc: 82.000000 Tst acc: 81.954545
+Learning rate: 1.000000E-02 Regularization strength: 5.000000E-05, TR acc: 99.333333, Val acc: 82.000000 Tst acc: 82.045455
+------------------------------------------------------
+Learning rate: 1.000000E-03 Regularization strength: 1.000000E-05, TR acc: 98.000000, Val acc: 80.000000 Tst acc: 79.000000
+Learning rate: 1.000000E-03 Regularization strength: 1.500000E-05, TR acc: 98.000000, Val acc: 80.000000 Tst acc: 79.000000
+Learning rate: 1.000000E-03 Regularization strength: 2.000000E-05, TR acc: 98.000000, Val acc: 81.000000 Tst acc: 79.151515
+Learning rate: 1.000000E-03 Regularization strength: 2.500000E-05, TR acc: 98.000000, Val acc: 80.000000 Tst acc: 78.969697
+Learning rate: 1.000000E-03 Regularization strength: 3.000000E-05, TR acc: 98.000000, Val acc: 81.000000 Tst acc: 79.136364
+Learning rate: 1.000000E-03 Regularization strength: 4.000000E-05, TR acc: 98.000000, Val acc: 80.000000 Tst acc: 78.984848
+Learning rate: 1.000000E-03 Regularization strength: 5.000000E-05, TR acc: 98.000000, Val acc: 81.000000 Tst acc: 79.151515
+------------------------------------------------------
+Learning rate: 1.000000E-04 Regularization strength: 1.000000E-05, TR acc: 84.666667, Val acc: 63.333333 Tst acc: 64.848485
+Learning rate: 1.000000E-04 Regularization strength: 1.500000E-05, TR acc: 84.666667, Val acc: 63.333333 Tst acc: 64.787879
+Learning rate: 1.000000E-04 Regularization strength: 2.000000E-05, TR acc: 84.666667, Val acc: 63.333333 Tst acc: 64.848485
+Learning rate: 1.000000E-04 Regularization strength: 2.500000E-05, TR acc: 84.666667, Val acc: 63.333333 Tst acc: 64.939394
+Learning rate: 1.000000E-04 Regularization strength: 3.000000E-05, TR acc: 84.666667, Val acc: 63.333333 Tst acc: 64.833333
+Learning rate: 1.000000E-04 Regularization strength: 4.000000E-05, TR acc: 84.666667, Val acc: 63.333333 Tst acc: 65.015152
+Learning rate: 1.000000E-04 Regularization strength: 5.000000E-05, TR acc: 84.666667, Val acc: 63.666667 Tst acc: 64.984848
+------------------------------------------------------
+Learning rate: 2.000000E-02 Regularization strength: 1.000000E-05, TR acc: 99.333333, Val acc: 82.333333 Tst acc: 81.348485
+Learning rate: 2.000000E-02 Regularization strength: 1.500000E-05, TR acc: 99.333333, Val acc: 81.666667 Tst acc: 81.318182
+Learning rate: 2.000000E-02 Regularization strength: 2.000000E-05, TR acc: 99.000000, Val acc: 82.666667 Tst acc: 81.030303
+Learning rate: 2.000000E-02 Regularization strength: 2.500000E-05, TR acc: 99.333333, Val acc: 82.333333 Tst acc: 81.363636
+Learning rate: 2.000000E-02 Regularization strength: 3.000000E-05, TR acc: 99.333333, Val acc: 82.333333 Tst acc: 81.318182
+Learning rate: 2.000000E-02 Regularization strength: 4.000000E-05, TR acc: 99.333333, Val acc: 82.000000 Tst acc: 81.393939
+Learning rate: 2.000000E-02 Regularization strength: 5.000000E-05, TR acc: 99.333333, Val acc: 82.000000 Tst acc: 81.424242
+------------------------------------------------------
+Learning rate: 2.000000E-03 Regularization strength: 1.000000E-05, TR acc: 98.000000, Val acc: 79.666667 Tst acc: 78.772727
+Learning rate: 2.000000E-03 Regularization strength: 1.500000E-05, TR acc: 98.000000, Val acc: 79.666667 Tst acc: 78.818182
+Learning rate: 2.000000E-03 Regularization strength: 2.000000E-05, TR acc: 98.000000, Val acc: 79.666667 Tst acc: 78.757576
+Learning rate: 2.000000E-03 Regularization strength: 2.500000E-05, TR acc: 98.000000, Val acc: 80.000000 Tst acc: 79.136364
+Learning rate: 2.000000E-03 Regularization strength: 3.000000E-05, TR acc: 98.000000, Val acc: 80.000000 Tst acc: 79.136364
+Learning rate: 2.000000E-03 Regularization strength: 4.000000E-05, TR acc: 98.000000, Val acc: 79.666667 Tst acc: 78.757576
+Learning rate: 2.000000E-03 Regularization strength: 5.000000E-05, TR acc: 98.000000, Val acc: 79.666667 Tst acc: 78.818182
+------------------------------------------------------
+Learning rate: 2.000000E-04 Regularization strength: 1.000000E-05, TR acc: 84.666667, Val acc: 63.666667 Tst acc: 64.893939
+Learning rate: 2.000000E-04 Regularization strength: 1.500000E-05, TR acc: 84.666667, Val acc: 63.666667 Tst acc: 65.045455
+Learning rate: 2.000000E-04 Regularization strength: 2.000000E-05, TR acc: 84.666667, Val acc: 63.333333 Tst acc: 64.878788
+Learning rate: 2.000000E-04 Regularization strength: 2.500000E-05, TR acc: 84.666667, Val acc: 63.333333 Tst acc: 64.969697
+Learning rate: 2.000000E-04 Regularization strength: 3.000000E-05, TR acc: 84.666667, Val acc: 63.333333 Tst acc: 64.924242
+Learning rate: 2.000000E-04 Regularization strength: 4.000000E-05, TR acc: 84.666667, Val acc: 63.666667 Tst acc: 65.000000
+Learning rate: 2.000000E-04 Regularization strength: 5.000000E-05, TR acc: 84.666667, Val acc: 63.333333 Tst acc: 64.893939
+------------------------------------------------------
+Running for training: 10.00 validation: 10.00 test: 80.00 
+Running for lengths training:  7, validation: 7, test: 58 
+
+Learning rate: 1.000000E-01 Regularization strength: 1.000000E-05, TR acc: 99.428571, Val acc: 87.000000 Tst acc: 87.396552
+Learning rate: 1.000000E-01 Regularization strength: 1.500000E-05, TR acc: 99.428571, Val acc: 86.857143 Tst acc: 87.413793
+Learning rate: 1.000000E-01 Regularization strength: 2.000000E-05, TR acc: 99.428571, Val acc: 87.000000 Tst acc: 87.465517
+Learning rate: 1.000000E-01 Regularization strength: 2.500000E-05, TR acc: 99.428571, Val acc: 86.714286 Tst acc: 87.500000
+Learning rate: 1.000000E-01 Regularization strength: 3.000000E-05, TR acc: 99.428571, Val acc: 86.857143 Tst acc: 87.344828
+Learning rate: 1.000000E-01 Regularization strength: 4.000000E-05, TR acc: 99.428571, Val acc: 87.000000 Tst acc: 87.379310
+Learning rate: 1.000000E-01 Regularization strength: 5.000000E-05, TR acc: 99.428571, Val acc: 86.571429 Tst acc: 87.517241
+------------------------------------------------------
+Learning rate: 1.000000E-02 Regularization strength: 1.000000E-05, TR acc: 99.000000, Val acc: 90.285714 Tst acc: 90.431034
+Learning rate: 1.000000E-02 Regularization strength: 1.500000E-05, TR acc: 99.000000, Val acc: 90.142857 Tst acc: 90.431034
+Learning rate: 1.000000E-02 Regularization strength: 2.000000E-05, TR acc: 99.000000, Val acc: 90.428571 Tst acc: 90.362069
+Learning rate: 1.000000E-02 Regularization strength: 2.500000E-05, TR acc: 99.000000, Val acc: 90.285714 Tst acc: 90.344828
+Learning rate: 1.000000E-02 Regularization strength: 3.000000E-05, TR acc: 99.000000, Val acc: 90.428571 Tst acc: 90.465517
+Learning rate: 1.000000E-02 Regularization strength: 4.000000E-05, TR acc: 99.000000, Val acc: 90.285714 Tst acc: 90.396552
+Learning rate: 1.000000E-02 Regularization strength: 5.000000E-05, TR acc: 99.000000, Val acc: 90.285714 Tst acc: 90.362069
+------------------------------------------------------
+Learning rate: 1.000000E-03 Regularization strength: 1.000000E-05, TR acc: 95.000000, Val acc: 83.857143 Tst acc: 84.568966
+Learning rate: 1.000000E-03 Regularization strength: 1.500000E-05, TR acc: 95.142857, Val acc: 83.857143 Tst acc: 84.551724
+Learning rate: 1.000000E-03 Regularization strength: 2.000000E-05, TR acc: 95.000000, Val acc: 83.857143 Tst acc: 84.568966
+Learning rate: 1.000000E-03 Regularization strength: 2.500000E-05, TR acc: 95.000000, Val acc: 83.857143 Tst acc: 84.551724
+Learning rate: 1.000000E-03 Regularization strength: 3.000000E-05, TR acc: 95.000000, Val acc: 83.857143 Tst acc: 84.551724
+Learning rate: 1.000000E-03 Regularization strength: 4.000000E-05, TR acc: 95.000000, Val acc: 83.857143 Tst acc: 84.551724
+Learning rate: 1.000000E-03 Regularization strength: 5.000000E-05, TR acc: 95.000000, Val acc: 83.857143 Tst acc: 84.586207
+------------------------------------------------------
+Learning rate: 1.000000E-04 Regularization strength: 1.000000E-05, TR acc: 75.857143, Val acc: 62.142857 Tst acc: 65.137931
+Learning rate: 1.000000E-04 Regularization strength: 1.500000E-05, TR acc: 75.714286, Val acc: 62.285714 Tst acc: 65.120690
+Learning rate: 1.000000E-04 Regularization strength: 2.000000E-05, TR acc: 75.857143, Val acc: 62.571429 Tst acc: 65.103448
+Learning rate: 1.000000E-04 Regularization strength: 2.500000E-05, TR acc: 75.857143, Val acc: 62.714286 Tst acc: 65.137931
+Learning rate: 1.000000E-04 Regularization strength: 3.000000E-05, TR acc: 75.714286, Val acc: 62.285714 Tst acc: 65.086207
+Learning rate: 1.000000E-04 Regularization strength: 4.000000E-05, TR acc: 75.857143, Val acc: 62.428571 Tst acc: 65.086207
+Learning rate: 1.000000E-04 Regularization strength: 5.000000E-05, TR acc: 75.714286, Val acc: 62.142857 Tst acc: 65.086207
+------------------------------------------------------
+Learning rate: 2.000000E-02 Regularization strength: 1.000000E-05, TR acc: 99.428571, Val acc: 90.000000 Tst acc: 90.551724
+Learning rate: 2.000000E-02 Regularization strength: 1.500000E-05, TR acc: 99.142857, Val acc: 90.142857 Tst acc: 90.396552
+Learning rate: 2.000000E-02 Regularization strength: 2.000000E-05, TR acc: 99.285714, Val acc: 90.142857 Tst acc: 90.327586
+Learning rate: 2.000000E-02 Regularization strength: 2.500000E-05, TR acc: 99.428571, Val acc: 89.857143 Tst acc: 90.603448
+Learning rate: 2.000000E-02 Regularization strength: 3.000000E-05, TR acc: 99.571429, Val acc: 90.285714 Tst acc: 90.465517
+Learning rate: 2.000000E-02 Regularization strength: 4.000000E-05, TR acc: 99.428571, Val acc: 90.142857 Tst acc: 90.465517
+Learning rate: 2.000000E-02 Regularization strength: 5.000000E-05, TR acc: 99.142857, Val acc: 90.142857 Tst acc: 90.448276
+------------------------------------------------------
+Learning rate: 2.000000E-03 Regularization strength: 1.000000E-05, TR acc: 96.285714, Val acc: 83.714286 Tst acc: 85.413793
+Learning rate: 2.000000E-03 Regularization strength: 1.500000E-05, TR acc: 96.285714, Val acc: 83.714286 Tst acc: 85.413793
+Learning rate: 2.000000E-03 Regularization strength: 2.000000E-05, TR acc: 96.285714, Val acc: 83.714286 Tst acc: 85.413793
+Learning rate: 2.000000E-03 Regularization strength: 2.500000E-05, TR acc: 96.285714, Val acc: 83.571429 Tst acc: 85.465517
+Learning rate: 2.000000E-03 Regularization strength: 3.000000E-05, TR acc: 96.285714, Val acc: 83.571429 Tst acc: 85.431034
+Learning rate: 2.000000E-03 Regularization strength: 4.000000E-05, TR acc: 96.285714, Val acc: 83.571429 Tst acc: 85.500000
+Learning rate: 2.000000E-03 Regularization strength: 5.000000E-05, TR acc: 96.285714, Val acc: 83.714286 Tst acc: 85.431034
+------------------------------------------------------
+Learning rate: 2.000000E-04 Regularization strength: 1.000000E-05, TR acc: 93.285714, Val acc: 83.142857 Tst acc: 83.362069
+Learning rate: 2.000000E-04 Regularization strength: 1.500000E-05, TR acc: 75.714286, Val acc: 62.428571 Tst acc: 65.103448
+Learning rate: 2.000000E-04 Regularization strength: 2.000000E-05, TR acc: 93.142857, Val acc: 83.142857 Tst acc: 83.362069
+Learning rate: 2.000000E-04 Regularization strength: 2.500000E-05, TR acc: 75.714286, Val acc: 62.285714 Tst acc: 65.103448
+Learning rate: 2.000000E-04 Regularization strength: 3.000000E-05, TR acc: 75.857143, Val acc: 62.571429 Tst acc: 65.120690
+Learning rate: 2.000000E-04 Regularization strength: 4.000000E-05, TR acc: 93.142857, Val acc: 83.142857 Tst acc: 83.344828
+Learning rate: 2.000000E-04 Regularization strength: 5.000000E-05, TR acc: 75.857143, Val acc: 62.285714 Tst acc: 65.103448
+------------------------------------------------------
+Running for training: 15.00 validation: 15.00 test: 70.00 
+Running for lengths training:  10, validation: 10, test: 52 
+
+Learning rate: 1.000000E-01 Regularization strength: 1.000000E-05, TR acc: 99.500000, Val acc: 90.500000 Tst acc: 91.019231
+Learning rate: 1.000000E-01 Regularization strength: 1.500000E-05, TR acc: 99.500000, Val acc: 90.400000 Tst acc: 91.019231
+Learning rate: 1.000000E-01 Regularization strength: 2.000000E-05, TR acc: 99.700000, Val acc: 90.500000 Tst acc: 91.115385
+Learning rate: 1.000000E-01 Regularization strength: 2.500000E-05, TR acc: 99.500000, Val acc: 90.600000 Tst acc: 91.153846
+Learning rate: 1.000000E-01 Regularization strength: 3.000000E-05, TR acc: 99.700000, Val acc: 90.500000 Tst acc: 91.038462
+Learning rate: 1.000000E-01 Regularization strength: 4.000000E-05, TR acc: 99.600000, Val acc: 90.500000 Tst acc: 91.115385
+Learning rate: 1.000000E-01 Regularization strength: 5.000000E-05, TR acc: 99.500000, Val acc: 90.300000 Tst acc: 91.000000
+------------------------------------------------------
+Learning rate: 1.000000E-02 Regularization strength: 1.000000E-05, TR acc: 97.600000, Val acc: 90.200000 Tst acc: 92.269231
+Learning rate: 1.000000E-02 Regularization strength: 1.500000E-05, TR acc: 97.600000, Val acc: 90.200000 Tst acc: 92.288462
+Learning rate: 1.000000E-02 Regularization strength: 2.000000E-05, TR acc: 97.600000, Val acc: 90.200000 Tst acc: 92.269231
+Learning rate: 1.000000E-02 Regularization strength: 2.500000E-05, TR acc: 97.600000, Val acc: 90.200000 Tst acc: 92.288462
+Learning rate: 1.000000E-02 Regularization strength: 3.000000E-05, TR acc: 97.600000, Val acc: 90.200000 Tst acc: 92.269231
+Learning rate: 1.000000E-02 Regularization strength: 4.000000E-05, TR acc: 97.300000, Val acc: 89.200000 Tst acc: 91.538462
+Learning rate: 1.000000E-02 Regularization strength: 5.000000E-05, TR acc: 97.600000, Val acc: 90.200000 Tst acc: 92.269231
+------------------------------------------------------
+Learning rate: 1.000000E-03 Regularization strength: 1.000000E-05, TR acc: 94.600000, Val acc: 86.300000 Tst acc: 86.961538
+Learning rate: 1.000000E-03 Regularization strength: 1.500000E-05, TR acc: 94.600000, Val acc: 86.300000 Tst acc: 86.961538
+Learning rate: 1.000000E-03 Regularization strength: 2.000000E-05, TR acc: 94.600000, Val acc: 84.900000 Tst acc: 86.961538
+Learning rate: 1.000000E-03 Regularization strength: 2.500000E-05, TR acc: 94.400000, Val acc: 86.400000 Tst acc: 87.057692
+Learning rate: 1.000000E-03 Regularization strength: 3.000000E-05, TR acc: 94.400000, Val acc: 86.400000 Tst acc: 87.057692
+Learning rate: 1.000000E-03 Regularization strength: 4.000000E-05, TR acc: 94.400000, Val acc: 86.400000 Tst acc: 87.057692
+Learning rate: 1.000000E-03 Regularization strength: 5.000000E-05, TR acc: 94.600000, Val acc: 86.300000 Tst acc: 86.961538
+------------------------------------------------------
+Learning rate: 1.000000E-04 Regularization strength: 1.000000E-05, TR acc: 73.700000, Val acc: 64.600000 Tst acc: 65.211538
+Learning rate: 1.000000E-04 Regularization strength: 1.500000E-05, TR acc: 73.700000, Val acc: 64.500000 Tst acc: 65.211538
+Learning rate: 1.000000E-04 Regularization strength: 2.000000E-05, TR acc: 73.500000, Val acc: 64.500000 Tst acc: 65.134615
+Learning rate: 1.000000E-04 Regularization strength: 2.500000E-05, TR acc: 73.600000, Val acc: 64.300000 Tst acc: 65.173077
+Learning rate: 1.000000E-04 Regularization strength: 3.000000E-05, TR acc: 90.300000, Val acc: 82.900000 Tst acc: 83.596154
+Learning rate: 1.000000E-04 Regularization strength: 4.000000E-05, TR acc: 73.700000, Val acc: 64.600000 Tst acc: 65.153846
+Learning rate: 1.000000E-04 Regularization strength: 5.000000E-05, TR acc: 73.500000, Val acc: 64.600000 Tst acc: 65.134615
+------------------------------------------------------
+Learning rate: 2.000000E-02 Regularization strength: 1.000000E-05, TR acc: 99.100000, Val acc: 93.200000 Tst acc: 94.173077
+Learning rate: 2.000000E-02 Regularization strength: 1.500000E-05, TR acc: 99.100000, Val acc: 93.200000 Tst acc: 94.173077
+Learning rate: 2.000000E-02 Regularization strength: 2.000000E-05, TR acc: 99.100000, Val acc: 93.100000 Tst acc: 94.173077
+Learning rate: 2.000000E-02 Regularization strength: 2.500000E-05, TR acc: 99.100000, Val acc: 93.100000 Tst acc: 94.153846
+Learning rate: 2.000000E-02 Regularization strength: 3.000000E-05, TR acc: 99.100000, Val acc: 93.200000 Tst acc: 94.192308
+Learning rate: 2.000000E-02 Regularization strength: 4.000000E-05, TR acc: 99.100000, Val acc: 93.200000 Tst acc: 94.173077
+Learning rate: 2.000000E-02 Regularization strength: 5.000000E-05, TR acc: 99.100000, Val acc: 93.200000 Tst acc: 94.173077
+------------------------------------------------------
+Learning rate: 2.000000E-03 Regularization strength: 1.000000E-05, TR acc: 94.600000, Val acc: 86.100000 Tst acc: 87.096154
+Learning rate: 2.000000E-03 Regularization strength: 1.500000E-05, TR acc: 95.100000, Val acc: 86.800000 Tst acc: 88.307692
+Learning rate: 2.000000E-03 Regularization strength: 2.000000E-05, TR acc: 94.300000, Val acc: 86.300000 Tst acc: 87.692308
+Learning rate: 2.000000E-03 Regularization strength: 2.500000E-05, TR acc: 94.600000, Val acc: 86.200000 Tst acc: 87.326923
+Learning rate: 2.000000E-03 Regularization strength: 3.000000E-05, TR acc: 94.700000, Val acc: 86.200000 Tst acc: 87.307692
+Learning rate: 2.000000E-03 Regularization strength: 4.000000E-05, TR acc: 94.300000, Val acc: 86.300000 Tst acc: 87.653846
+Learning rate: 2.000000E-03 Regularization strength: 5.000000E-05, TR acc: 95.100000, Val acc: 86.800000 Tst acc: 88.192308
+------------------------------------------------------
+Learning rate: 2.000000E-04 Regularization strength: 1.000000E-05, TR acc: 90.300000, Val acc: 82.800000 Tst acc: 83.596154
+Learning rate: 2.000000E-04 Regularization strength: 1.500000E-05, TR acc: 90.300000, Val acc: 82.800000 Tst acc: 83.596154
+Learning rate: 2.000000E-04 Regularization strength: 2.000000E-05, TR acc: 90.200000, Val acc: 82.800000 Tst acc: 83.576923
+Learning rate: 2.000000E-04 Regularization strength: 2.500000E-05, TR acc: 73.600000, Val acc: 64.700000 Tst acc: 65.230769
+Learning rate: 2.000000E-04 Regularization strength: 3.000000E-05, TR acc: 73.500000, Val acc: 64.700000 Tst acc: 65.211538
+Learning rate: 2.000000E-04 Regularization strength: 4.000000E-05, TR acc: 90.300000, Val acc: 82.800000 Tst acc: 83.615385
+Learning rate: 2.000000E-04 Regularization strength: 5.000000E-05, TR acc: 90.300000, Val acc: 82.800000 Tst acc: 83.634615
+------------------------------------------------------
+Running for training: 20.00 validation: 20.00 test: 60.00 
+Running for lengths training:  14, validation: 14, test: 44 
+
+Learning rate: 1.000000E-01 Regularization strength: 1.000000E-05, TR acc: 99.571429, Val acc: 94.214286 Tst acc: 94.204545
+Learning rate: 1.000000E-01 Regularization strength: 1.500000E-05, TR acc: 99.571429, Val acc: 94.214286 Tst acc: 94.250000
+Learning rate: 1.000000E-01 Regularization strength: 2.000000E-05, TR acc: 99.714286, Val acc: 94.500000 Tst acc: 94.227273
+Learning rate: 1.000000E-01 Regularization strength: 2.500000E-05, TR acc: 98.928571, Val acc: 93.785714 Tst acc: 93.454545
+Learning rate: 1.000000E-01 Regularization strength: 3.000000E-05, TR acc: 98.928571, Val acc: 93.714286 Tst acc: 93.454545
+Learning rate: 1.000000E-01 Regularization strength: 4.000000E-05, TR acc: 98.928571, Val acc: 93.785714 Tst acc: 93.545455
+Learning rate: 1.000000E-01 Regularization strength: 5.000000E-05, TR acc: 99.500000, Val acc: 94.214286 Tst acc: 94.204545
+------------------------------------------------------
+Learning rate: 1.000000E-02 Regularization strength: 1.000000E-05, TR acc: 97.571429, Val acc: 92.500000 Tst acc: 93.068182
+Learning rate: 1.000000E-02 Regularization strength: 1.500000E-05, TR acc: 98.000000, Val acc: 93.500000 Tst acc: 93.931818
+Learning rate: 1.000000E-02 Regularization strength: 2.000000E-05, TR acc: 97.000000, Val acc: 92.214286 Tst acc: 92.613636
+Learning rate: 1.000000E-02 Regularization strength: 2.500000E-05, TR acc: 96.928571, Val acc: 92.285714 Tst acc: 92.636364
+Learning rate: 1.000000E-02 Regularization strength: 3.000000E-05, TR acc: 97.000000, Val acc: 92.214286 Tst acc: 92.636364
+Learning rate: 1.000000E-02 Regularization strength: 4.000000E-05, TR acc: 98.071429, Val acc: 93.714286 Tst acc: 94.159091
+Learning rate: 1.000000E-02 Regularization strength: 5.000000E-05, TR acc: 97.000000, Val acc: 92.214286 Tst acc: 92.590909
+------------------------------------------------------
+Learning rate: 1.000000E-03 Regularization strength: 1.000000E-05, TR acc: 94.571429, Val acc: 90.428571 Tst acc: 90.022727
+Learning rate: 1.000000E-03 Regularization strength: 1.500000E-05, TR acc: 94.285714, Val acc: 89.571429 Tst acc: 89.681818
+Learning rate: 1.000000E-03 Regularization strength: 2.000000E-05, TR acc: 94.000000, Val acc: 90.285714 Tst acc: 89.590909
+Learning rate: 1.000000E-03 Regularization strength: 2.500000E-05, TR acc: 93.928571, Val acc: 90.214286 Tst acc: 89.795455
+Learning rate: 1.000000E-03 Regularization strength: 3.000000E-05, TR acc: 94.571429, Val acc: 90.428571 Tst acc: 90.022727
+Learning rate: 1.000000E-03 Regularization strength: 4.000000E-05, TR acc: 94.285714, Val acc: 89.571429 Tst acc: 89.659091
+Learning rate: 1.000000E-03 Regularization strength: 5.000000E-05, TR acc: 93.928571, Val acc: 90.214286 Tst acc: 89.795455
+------------------------------------------------------
+Learning rate: 1.000000E-04 Regularization strength: 1.000000E-05, TR acc: 89.785714, Val acc: 85.571429 Tst acc: 84.909091
+Learning rate: 1.000000E-04 Regularization strength: 1.500000E-05, TR acc: 69.642857, Val acc: 64.142857 Tst acc: 64.727273
+Learning rate: 1.000000E-04 Regularization strength: 2.000000E-05, TR acc: 69.500000, Val acc: 64.000000 Tst acc: 64.659091
+Learning rate: 1.000000E-04 Regularization strength: 2.500000E-05, TR acc: 89.785714, Val acc: 85.571429 Tst acc: 84.909091
+Learning rate: 1.000000E-04 Regularization strength: 3.000000E-05, TR acc: 69.500000, Val acc: 64.071429 Tst acc: 64.659091
+Learning rate: 1.000000E-04 Regularization strength: 4.000000E-05, TR acc: 69.428571, Val acc: 63.928571 Tst acc: 64.636364
+Learning rate: 1.000000E-04 Regularization strength: 5.000000E-05, TR acc: 69.428571, Val acc: 63.714286 Tst acc: 64.522727
+------------------------------------------------------
+Learning rate: 2.000000E-02 Regularization strength: 1.000000E-05, TR acc: 98.285714, Val acc: 94.928571 Tst acc: 94.590909
+Learning rate: 2.000000E-02 Regularization strength: 1.500000E-05, TR acc: 98.785714, Val acc: 95.285714 Tst acc: 95.159091
+Learning rate: 2.000000E-02 Regularization strength: 2.000000E-05, TR acc: 98.428571, Val acc: 94.928571 Tst acc: 94.681818
+Learning rate: 2.000000E-02 Regularization strength: 2.500000E-05, TR acc: 98.357143, Val acc: 94.928571 Tst acc: 94.613636
+Learning rate: 2.000000E-02 Regularization strength: 3.000000E-05, TR acc: 98.357143, Val acc: 94.928571 Tst acc: 94.636364
+Learning rate: 2.000000E-02 Regularization strength: 4.000000E-05, TR acc: 98.357143, Val acc: 94.928571 Tst acc: 94.590909
+Learning rate: 2.000000E-02 Regularization strength: 5.000000E-05, TR acc: 98.428571, Val acc: 94.928571 Tst acc: 94.590909
+------------------------------------------------------
+Learning rate: 2.000000E-03 Regularization strength: 1.000000E-05, TR acc: 93.857143, Val acc: 90.357143 Tst acc: 89.431818
+Learning rate: 2.000000E-03 Regularization strength: 1.500000E-05, TR acc: 93.857143, Val acc: 90.357143 Tst acc: 89.409091
+Learning rate: 2.000000E-03 Regularization strength: 2.000000E-05, TR acc: 94.357143, Val acc: 90.071429 Tst acc: 89.500000
+Learning rate: 2.000000E-03 Regularization strength: 2.500000E-05, TR acc: 94.357143, Val acc: 90.071429 Tst acc: 89.522727
+Learning rate: 2.000000E-03 Regularization strength: 3.000000E-05, TR acc: 94.357143, Val acc: 90.071429 Tst acc: 89.500000
+Learning rate: 2.000000E-03 Regularization strength: 4.000000E-05, TR acc: 94.357143, Val acc: 90.071429 Tst acc: 89.500000
+Learning rate: 2.000000E-03 Regularization strength: 5.000000E-05, TR acc: 94.357143, Val acc: 90.071429 Tst acc: 89.522727
+------------------------------------------------------
+Learning rate: 2.000000E-04 Regularization strength: 1.000000E-05, TR acc: 92.642857, Val acc: 88.000000 Tst acc: 87.840909
+Learning rate: 2.000000E-04 Regularization strength: 1.500000E-05, TR acc: 92.642857, Val acc: 88.000000 Tst acc: 87.840909
+Learning rate: 2.000000E-04 Regularization strength: 2.000000E-05, TR acc: 92.642857, Val acc: 88.000000 Tst acc: 87.840909
+Learning rate: 2.000000E-04 Regularization strength: 2.500000E-05, TR acc: 69.571429, Val acc: 63.857143 Tst acc: 64.727273
+Learning rate: 2.000000E-04 Regularization strength: 3.000000E-05, TR acc: 92.571429, Val acc: 88.000000 Tst acc: 87.840909
+Learning rate: 2.000000E-04 Regularization strength: 4.000000E-05, TR acc: 89.571429, Val acc: 85.071429 Tst acc: 84.886364
+Learning rate: 2.000000E-04 Regularization strength: 5.000000E-05, TR acc: 69.500000, Val acc: 63.857143 Tst acc: 64.659091
+------------------------------------------------------
+Running for training: 25.00 validation: 25.00 test: 50.00 
+Running for lengths training:  18, validation: 18, test: 36 
+
+Learning rate: 1.000000E-01 Regularization strength: 1.000000E-05, TR acc: 99.222222, Val acc: 94.388889 Tst acc: 94.611111
+Learning rate: 1.000000E-01 Regularization strength: 1.500000E-05, TR acc: 99.222222, Val acc: 94.388889 Tst acc: 94.638889
+Learning rate: 1.000000E-01 Regularization strength: 2.000000E-05, TR acc: 99.222222, Val acc: 94.388889 Tst acc: 94.638889
+Learning rate: 1.000000E-01 Regularization strength: 2.500000E-05, TR acc: 99.611111, Val acc: 94.277778 Tst acc: 95.055556
+Learning rate: 1.000000E-01 Regularization strength: 3.000000E-05, TR acc: 99.222222, Val acc: 94.388889 Tst acc: 94.666667
+Learning rate: 1.000000E-01 Regularization strength: 4.000000E-05, TR acc: 99.611111, Val acc: 94.388889 Tst acc: 95.027778
+Learning rate: 1.000000E-01 Regularization strength: 5.000000E-05, TR acc: 99.222222, Val acc: 94.388889 Tst acc: 94.638889
+------------------------------------------------------
+Learning rate: 1.000000E-02 Regularization strength: 1.000000E-05, TR acc: 97.277778, Val acc: 93.166667 Tst acc: 93.833333
+Learning rate: 1.000000E-02 Regularization strength: 1.500000E-05, TR acc: 97.277778, Val acc: 93.166667 Tst acc: 93.777778
+Learning rate: 1.000000E-02 Regularization strength: 2.000000E-05, TR acc: 97.277778, Val acc: 93.166667 Tst acc: 93.750000
+Learning rate: 1.000000E-02 Regularization strength: 2.500000E-05, TR acc: 97.444444, Val acc: 93.333333 Tst acc: 93.972222
+Learning rate: 1.000000E-02 Regularization strength: 3.000000E-05, TR acc: 97.444444, Val acc: 93.333333 Tst acc: 93.972222
+Learning rate: 1.000000E-02 Regularization strength: 4.000000E-05, TR acc: 97.277778, Val acc: 93.166667 Tst acc: 93.833333
+Learning rate: 1.000000E-02 Regularization strength: 5.000000E-05, TR acc: 97.277778, Val acc: 93.166667 Tst acc: 93.750000
+------------------------------------------------------
+Learning rate: 1.000000E-03 Regularization strength: 1.000000E-05, TR acc: 94.388889, Val acc: 89.222222 Tst acc: 90.027778
+Learning rate: 1.000000E-03 Regularization strength: 1.500000E-05, TR acc: 94.555556, Val acc: 89.333333 Tst acc: 89.888889
+Learning rate: 1.000000E-03 Regularization strength: 2.000000E-05, TR acc: 94.555556, Val acc: 89.333333 Tst acc: 89.888889
+Learning rate: 1.000000E-03 Regularization strength: 2.500000E-05, TR acc: 94.388889, Val acc: 89.222222 Tst acc: 90.027778
+Learning rate: 1.000000E-03 Regularization strength: 3.000000E-05, TR acc: 94.555556, Val acc: 89.333333 Tst acc: 89.944444
+Learning rate: 1.000000E-03 Regularization strength: 4.000000E-05, TR acc: 94.555556, Val acc: 89.277778 Tst acc: 89.916667
+Learning rate: 1.000000E-03 Regularization strength: 5.000000E-05, TR acc: 94.555556, Val acc: 89.333333 Tst acc: 89.916667
+------------------------------------------------------
+Learning rate: 1.000000E-04 Regularization strength: 1.000000E-05, TR acc: 69.000000, Val acc: 63.722222 Tst acc: 64.750000
+Learning rate: 1.000000E-04 Regularization strength: 1.500000E-05, TR acc: 69.055556, Val acc: 63.666667 Tst acc: 64.694444
+Learning rate: 1.000000E-04 Regularization strength: 2.000000E-05, TR acc: 69.055556, Val acc: 63.500000 Tst acc: 64.694444
+Learning rate: 1.000000E-04 Regularization strength: 2.500000E-05, TR acc: 68.888889, Val acc: 63.777778 Tst acc: 64.611111
+Learning rate: 1.000000E-04 Regularization strength: 3.000000E-05, TR acc: 69.055556, Val acc: 63.722222 Tst acc: 64.694444
+Learning rate: 1.000000E-04 Regularization strength: 4.000000E-05, TR acc: 69.055556, Val acc: 63.611111 Tst acc: 64.722222
+Learning rate: 1.000000E-04 Regularization strength: 5.000000E-05, TR acc: 69.055556, Val acc: 63.888889 Tst acc: 64.722222
+------------------------------------------------------
+Learning rate: 2.000000E-02 Regularization strength: 1.000000E-05, TR acc: 98.444444, Val acc: 95.333333 Tst acc: 95.611111
+Learning rate: 2.000000E-02 Regularization strength: 1.500000E-05, TR acc: 98.444444, Val acc: 95.388889 Tst acc: 95.611111
+Learning rate: 2.000000E-02 Regularization strength: 2.000000E-05, TR acc: 98.333333, Val acc: 95.222222 Tst acc: 95.444444
+Learning rate: 2.000000E-02 Regularization strength: 2.500000E-05, TR acc: 98.444444, Val acc: 95.388889 Tst acc: 95.638889
+Learning rate: 2.000000E-02 Regularization strength: 3.000000E-05, TR acc: 98.500000, Val acc: 95.388889 Tst acc: 95.611111
+Learning rate: 2.000000E-02 Regularization strength: 4.000000E-05, TR acc: 97.944444, Val acc: 94.555556 Tst acc: 94.777778
+Learning rate: 2.000000E-02 Regularization strength: 5.000000E-05, TR acc: 98.611111, Val acc: 95.333333 Tst acc: 95.750000
+------------------------------------------------------
+Learning rate: 2.000000E-03 Regularization strength: 1.000000E-05, TR acc: 94.444444, Val acc: 89.055556 Tst acc: 89.777778
+Learning rate: 2.000000E-03 Regularization strength: 1.500000E-05, TR acc: 94.666667, Val acc: 89.166667 Tst acc: 90.333333
+Learning rate: 2.000000E-03 Regularization strength: 2.000000E-05, TR acc: 94.444444, Val acc: 89.222222 Tst acc: 90.000000
+Learning rate: 2.000000E-03 Regularization strength: 2.500000E-05, TR acc: 94.444444, Val acc: 89.222222 Tst acc: 89.972222
+Learning rate: 2.000000E-03 Regularization strength: 3.000000E-05, TR acc: 94.444444, Val acc: 89.055556 Tst acc: 89.777778
+Learning rate: 2.000000E-03 Regularization strength: 4.000000E-05, TR acc: 94.444444, Val acc: 89.222222 Tst acc: 90.000000
+Learning rate: 2.000000E-03 Regularization strength: 5.000000E-05, TR acc: 94.666667, Val acc: 89.222222 Tst acc: 90.361111
+------------------------------------------------------
+Learning rate: 2.000000E-04 Regularization strength: 1.000000E-05, TR acc: 69.000000, Val acc: 63.722222 Tst acc: 64.638889
+Learning rate: 2.000000E-04 Regularization strength: 1.500000E-05, TR acc: 69.055556, Val acc: 63.722222 Tst acc: 64.666667
+Learning rate: 2.000000E-04 Regularization strength: 2.000000E-05, TR acc: 69.055556, Val acc: 63.833333 Tst acc: 64.694444
+Learning rate: 2.000000E-04 Regularization strength: 2.500000E-05, TR acc: 90.555556, Val acc: 84.666667 Tst acc: 85.444444
+Learning rate: 2.000000E-04 Regularization strength: 3.000000E-05, TR acc: 90.555556, Val acc: 84.666667 Tst acc: 85.444444
+Learning rate: 2.000000E-04 Regularization strength: 4.000000E-05, TR acc: 90.611111, Val acc: 83.944444 Tst acc: 84.861111
+Learning rate: 2.000000E-04 Regularization strength: 5.000000E-05, TR acc: 69.055556, Val acc: 63.777778 Tst acc: 64.666667
+------------------------------------------------------
+Running for training: 30.00 validation: 30.00 test: 40.00 
+Running for lengths training:  21, validation: 21, test: 30 
+
+Learning rate: 1.000000E-01 Regularization strength: 1.000000E-05, TR acc: 99.476190, Val acc: 96.142857 Tst acc: 96.533333
+Learning rate: 1.000000E-01 Regularization strength: 1.500000E-05, TR acc: 99.428571, Val acc: 96.190476 Tst acc: 96.566667
+Learning rate: 1.000000E-01 Regularization strength: 2.000000E-05, TR acc: 99.476190, Val acc: 96.142857 Tst acc: 96.566667
+Learning rate: 1.000000E-01 Regularization strength: 2.500000E-05, TR acc: 99.428571, Val acc: 96.142857 Tst acc: 96.600000
+Learning rate: 1.000000E-01 Regularization strength: 3.000000E-05, TR acc: 99.428571, Val acc: 96.142857 Tst acc: 96.600000
+Learning rate: 1.000000E-01 Regularization strength: 4.000000E-05, TR acc: 99.428571, Val acc: 96.142857 Tst acc: 96.600000
+Learning rate: 1.000000E-01 Regularization strength: 5.000000E-05, TR acc: 99.428571, Val acc: 96.095238 Tst acc: 96.600000
+------------------------------------------------------
+Learning rate: 1.000000E-02 Regularization strength: 1.000000E-05, TR acc: 97.761905, Val acc: 95.000000 Tst acc: 95.433333
+Learning rate: 1.000000E-02 Regularization strength: 1.500000E-05, TR acc: 97.761905, Val acc: 95.000000 Tst acc: 95.433333
+Learning rate: 1.000000E-02 Regularization strength: 2.000000E-05, TR acc: 96.666667, Val acc: 93.476190 Tst acc: 94.666667
+Learning rate: 1.000000E-02 Regularization strength: 2.500000E-05, TR acc: 96.619048, Val acc: 93.476190 Tst acc: 94.666667
+Learning rate: 1.000000E-02 Regularization strength: 3.000000E-05, TR acc: 97.761905, Val acc: 95.000000 Tst acc: 95.433333
+Learning rate: 1.000000E-02 Regularization strength: 4.000000E-05, TR acc: 96.666667, Val acc: 93.476190 Tst acc: 94.666667
+Learning rate: 1.000000E-02 Regularization strength: 5.000000E-05, TR acc: 97.761905, Val acc: 95.000000 Tst acc: 95.433333
+------------------------------------------------------
+Learning rate: 1.000000E-03 Regularization strength: 1.000000E-05, TR acc: 94.714286, Val acc: 90.333333 Tst acc: 91.400000
+Learning rate: 1.000000E-03 Regularization strength: 1.500000E-05, TR acc: 94.714286, Val acc: 90.285714 Tst acc: 91.400000
+Learning rate: 1.000000E-03 Regularization strength: 2.000000E-05, TR acc: 94.714286, Val acc: 90.333333 Tst acc: 91.433333
+Learning rate: 1.000000E-03 Regularization strength: 2.500000E-05, TR acc: 94.714286, Val acc: 90.333333 Tst acc: 91.400000
+Learning rate: 1.000000E-03 Regularization strength: 3.000000E-05, TR acc: 94.714286, Val acc: 90.333333 Tst acc: 91.433333
+Learning rate: 1.000000E-03 Regularization strength: 4.000000E-05, TR acc: 94.714286, Val acc: 90.333333 Tst acc: 91.433333
+Learning rate: 1.000000E-03 Regularization strength: 5.000000E-05, TR acc: 94.714286, Val acc: 90.285714 Tst acc: 91.400000
+------------------------------------------------------
+Learning rate: 1.000000E-04 Regularization strength: 1.000000E-05, TR acc: 68.380952, Val acc: 65.523810 Tst acc: 64.200000
+Learning rate: 1.000000E-04 Regularization strength: 1.500000E-05, TR acc: 68.285714, Val acc: 65.666667 Tst acc: 64.133333
+Learning rate: 1.000000E-04 Regularization strength: 2.000000E-05, TR acc: 68.380952, Val acc: 65.666667 Tst acc: 64.233333
+Learning rate: 1.000000E-04 Regularization strength: 2.500000E-05, TR acc: 68.380952, Val acc: 65.714286 Tst acc: 64.200000
+Learning rate: 1.000000E-04 Regularization strength: 3.000000E-05, TR acc: 68.285714, Val acc: 65.619048 Tst acc: 64.133333
+Learning rate: 1.000000E-04 Regularization strength: 4.000000E-05, TR acc: 68.333333, Val acc: 65.714286 Tst acc: 64.300000
+Learning rate: 1.000000E-04 Regularization strength: 5.000000E-05, TR acc: 68.238095, Val acc: 65.714286 Tst acc: 64.100000
+------------------------------------------------------
+Learning rate: 2.000000E-02 Regularization strength: 1.000000E-05, TR acc: 97.523810, Val acc: 94.619048 Tst acc: 95.300000
+Learning rate: 2.000000E-02 Regularization strength: 1.500000E-05, TR acc: 98.190476, Val acc: 95.619048 Tst acc: 96.233333
+Learning rate: 2.000000E-02 Regularization strength: 2.000000E-05, TR acc: 97.523810, Val acc: 94.619048 Tst acc: 95.300000
+Learning rate: 2.000000E-02 Regularization strength: 2.500000E-05, TR acc: 97.523810, Val acc: 94.619048 Tst acc: 95.300000
+Learning rate: 2.000000E-02 Regularization strength: 3.000000E-05, TR acc: 97.714286, Val acc: 95.000000 Tst acc: 95.500000
+Learning rate: 2.000000E-02 Regularization strength: 4.000000E-05, TR acc: 97.714286, Val acc: 95.000000 Tst acc: 95.533333
+Learning rate: 2.000000E-02 Regularization strength: 5.000000E-05, TR acc: 97.714286, Val acc: 95.000000 Tst acc: 95.500000
+------------------------------------------------------
+Learning rate: 2.000000E-03 Regularization strength: 1.000000E-05, TR acc: 93.857143, Val acc: 89.285714 Tst acc: 90.466667
+Learning rate: 2.000000E-03 Regularization strength: 1.500000E-05, TR acc: 93.857143, Val acc: 89.285714 Tst acc: 90.433333
+Learning rate: 2.000000E-03 Regularization strength: 2.000000E-05, TR acc: 93.904762, Val acc: 89.285714 Tst acc: 90.466667
+Learning rate: 2.000000E-03 Regularization strength: 2.500000E-05, TR acc: 93.904762, Val acc: 89.285714 Tst acc: 90.433333
+Learning rate: 2.000000E-03 Regularization strength: 3.000000E-05, TR acc: 93.857143, Val acc: 89.285714 Tst acc: 90.433333
+Learning rate: 2.000000E-03 Regularization strength: 4.000000E-05, TR acc: 93.857143, Val acc: 89.285714 Tst acc: 90.433333
+Learning rate: 2.000000E-03 Regularization strength: 5.000000E-05, TR acc: 93.904762, Val acc: 89.285714 Tst acc: 90.466667
+------------------------------------------------------
+Learning rate: 2.000000E-04 Regularization strength: 1.000000E-05, TR acc: 91.666667, Val acc: 86.380952 Tst acc: 87.700000
+Learning rate: 2.000000E-04 Regularization strength: 1.500000E-05, TR acc: 92.047619, Val acc: 86.476190 Tst acc: 87.933333
+Learning rate: 2.000000E-04 Regularization strength: 2.000000E-05, TR acc: 92.047619, Val acc: 86.476190 Tst acc: 87.933333
+Learning rate: 2.000000E-04 Regularization strength: 2.500000E-05, TR acc: 68.380952, Val acc: 65.571429 Tst acc: 64.166667
+Learning rate: 2.000000E-04 Regularization strength: 3.000000E-05, TR acc: 89.523810, Val acc: 84.666667 Tst acc: 86.333333
+Learning rate: 2.000000E-04 Regularization strength: 4.000000E-05, TR acc: 68.428571, Val acc: 65.666667 Tst acc: 64.233333
+Learning rate: 2.000000E-04 Regularization strength: 5.000000E-05, TR acc: 91.666667, Val acc: 86.380952 Tst acc: 87.666667
+------------------------------------------------------
+Running for training: 35.00 validation: 35.00 test: 30.00 
+Running for lengths training:  25, validation: 25, test: 22 
+
+Learning rate: 1.000000E-01 Regularization strength: 1.000000E-05, TR acc: 99.520000, Val acc: 95.880000 Tst acc: 96.909091
+Learning rate: 1.000000E-01 Regularization strength: 1.500000E-05, TR acc: 99.520000, Val acc: 95.880000 Tst acc: 96.909091
+Learning rate: 1.000000E-01 Regularization strength: 2.000000E-05, TR acc: 99.520000, Val acc: 95.920000 Tst acc: 96.909091
+Learning rate: 1.000000E-01 Regularization strength: 2.500000E-05, TR acc: 99.520000, Val acc: 95.920000 Tst acc: 96.863636
+Learning rate: 1.000000E-01 Regularization strength: 3.000000E-05, TR acc: 99.520000, Val acc: 95.920000 Tst acc: 96.772727
+Learning rate: 1.000000E-01 Regularization strength: 4.000000E-05, TR acc: 99.520000, Val acc: 95.840000 Tst acc: 96.909091
+Learning rate: 1.000000E-01 Regularization strength: 5.000000E-05, TR acc: 99.520000, Val acc: 95.920000 Tst acc: 96.863636
+------------------------------------------------------
+Learning rate: 1.000000E-02 Regularization strength: 1.000000E-05, TR acc: 96.800000, Val acc: 94.280000 Tst acc: 95.090909
+Learning rate: 1.000000E-02 Regularization strength: 1.500000E-05, TR acc: 96.800000, Val acc: 94.280000 Tst acc: 95.136364
+Learning rate: 1.000000E-02 Regularization strength: 2.000000E-05, TR acc: 96.800000, Val acc: 94.280000 Tst acc: 95.136364
+Learning rate: 1.000000E-02 Regularization strength: 2.500000E-05, TR acc: 96.800000, Val acc: 94.280000 Tst acc: 95.090909
+Learning rate: 1.000000E-02 Regularization strength: 3.000000E-05, TR acc: 96.800000, Val acc: 94.280000 Tst acc: 95.136364
+Learning rate: 1.000000E-02 Regularization strength: 4.000000E-05, TR acc: 96.800000, Val acc: 94.280000 Tst acc: 95.136364
+Learning rate: 1.000000E-02 Regularization strength: 5.000000E-05, TR acc: 96.800000, Val acc: 94.280000 Tst acc: 95.136364
+------------------------------------------------------
+Learning rate: 1.000000E-03 Regularization strength: 1.000000E-05, TR acc: 93.960000, Val acc: 90.680000 Tst acc: 90.681818
+Learning rate: 1.000000E-03 Regularization strength: 1.500000E-05, TR acc: 94.120000, Val acc: 90.480000 Tst acc: 90.590909
+Learning rate: 1.000000E-03 Regularization strength: 2.000000E-05, TR acc: 94.040000, Val acc: 90.360000 Tst acc: 90.545455
+Learning rate: 1.000000E-03 Regularization strength: 2.500000E-05, TR acc: 94.000000, Val acc: 90.680000 Tst acc: 90.681818
+Learning rate: 1.000000E-03 Regularization strength: 3.000000E-05, TR acc: 94.000000, Val acc: 90.680000 Tst acc: 90.681818
+Learning rate: 1.000000E-03 Regularization strength: 4.000000E-05, TR acc: 94.000000, Val acc: 90.680000 Tst acc: 90.727273
+Learning rate: 1.000000E-03 Regularization strength: 5.000000E-05, TR acc: 94.040000, Val acc: 90.360000 Tst acc: 90.545455
+------------------------------------------------------
+Learning rate: 1.000000E-04 Regularization strength: 1.000000E-05, TR acc: 67.600000, Val acc: 64.400000 Tst acc: 63.636364
+Learning rate: 1.000000E-04 Regularization strength: 1.500000E-05, TR acc: 67.560000, Val acc: 64.280000 Tst acc: 63.681818
+Learning rate: 1.000000E-04 Regularization strength: 2.000000E-05, TR acc: 67.560000, Val acc: 64.200000 Tst acc: 63.545455
+Learning rate: 1.000000E-04 Regularization strength: 2.500000E-05, TR acc: 67.480000, Val acc: 64.360000 Tst acc: 63.772727
+Learning rate: 1.000000E-04 Regularization strength: 3.000000E-05, TR acc: 67.360000, Val acc: 64.240000 Tst acc: 63.636364
+Learning rate: 1.000000E-04 Regularization strength: 4.000000E-05, TR acc: 67.480000, Val acc: 64.280000 Tst acc: 63.590909
+Learning rate: 1.000000E-04 Regularization strength: 5.000000E-05, TR acc: 67.520000, Val acc: 64.200000 Tst acc: 63.681818
+------------------------------------------------------
+Learning rate: 2.000000E-02 Regularization strength: 1.000000E-05, TR acc: 98.600000, Val acc: 96.520000 Tst acc: 96.363636
+Learning rate: 2.000000E-02 Regularization strength: 1.500000E-05, TR acc: 97.680000, Val acc: 95.120000 Tst acc: 95.863636
+Learning rate: 2.000000E-02 Regularization strength: 2.000000E-05, TR acc: 98.440000, Val acc: 96.080000 Tst acc: 96.818182
+Learning rate: 2.000000E-02 Regularization strength: 2.500000E-05, TR acc: 98.400000, Val acc: 96.120000 Tst acc: 96.681818
+Learning rate: 2.000000E-02 Regularization strength: 3.000000E-05, TR acc: 98.120000, Val acc: 95.880000 Tst acc: 96.136364
+Learning rate: 2.000000E-02 Regularization strength: 4.000000E-05, TR acc: 98.440000, Val acc: 96.080000 Tst acc: 96.772727
+Learning rate: 2.000000E-02 Regularization strength: 5.000000E-05, TR acc: 98.400000, Val acc: 96.080000 Tst acc: 96.772727
+------------------------------------------------------
+Learning rate: 2.000000E-03 Regularization strength: 1.000000E-05, TR acc: 95.240000, Val acc: 92.160000 Tst acc: 91.772727
+Learning rate: 2.000000E-03 Regularization strength: 1.500000E-05, TR acc: 95.240000, Val acc: 92.160000 Tst acc: 91.772727
+Learning rate: 2.000000E-03 Regularization strength: 2.000000E-05, TR acc: 94.000000, Val acc: 90.440000 Tst acc: 90.454545
+Learning rate: 2.000000E-03 Regularization strength: 2.500000E-05, TR acc: 95.240000, Val acc: 92.160000 Tst acc: 91.772727
+Learning rate: 2.000000E-03 Regularization strength: 3.000000E-05, TR acc: 95.240000, Val acc: 92.120000 Tst acc: 91.772727
+Learning rate: 2.000000E-03 Regularization strength: 4.000000E-05, TR acc: 94.080000, Val acc: 90.360000 Tst acc: 90.500000
+Learning rate: 2.000000E-03 Regularization strength: 5.000000E-05, TR acc: 93.920000, Val acc: 90.360000 Tst acc: 90.500000
+------------------------------------------------------
+Learning rate: 2.000000E-04 Regularization strength: 1.000000E-05, TR acc: 67.520000, Val acc: 64.320000 Tst acc: 63.727273
+Learning rate: 2.000000E-04 Regularization strength: 1.500000E-05, TR acc: 91.320000, Val acc: 86.360000 Tst acc: 86.954545
+Learning rate: 2.000000E-04 Regularization strength: 2.000000E-05, TR acc: 91.320000, Val acc: 86.320000 Tst acc: 86.954545
+Learning rate: 2.000000E-04 Regularization strength: 2.500000E-05, TR acc: 91.440000, Val acc: 86.360000 Tst acc: 87.000000
+Learning rate: 2.000000E-04 Regularization strength: 3.000000E-05, TR acc: 67.560000, Val acc: 64.360000 Tst acc: 63.727273
+Learning rate: 2.000000E-04 Regularization strength: 4.000000E-05, TR acc: 94.080000, Val acc: 89.800000 Tst acc: 90.045455
+Learning rate: 2.000000E-04 Regularization strength: 5.000000E-05, TR acc: 94.080000, Val acc: 89.800000 Tst acc: 90.045455
+------------------------------------------------------
+Running for training: 40.00 validation: 40.00 test: 20.00 
+Running for lengths training:  28, validation: 28, test: 16 
+
+Learning rate: 1.000000E-01 Regularization strength: 1.000000E-05, TR acc: 99.500000, Val acc: 97.285714 Tst acc: 97.062500
+Learning rate: 1.000000E-01 Regularization strength: 1.500000E-05, TR acc: 99.500000, Val acc: 97.285714 Tst acc: 97.187500
+Learning rate: 1.000000E-01 Regularization strength: 2.000000E-05, TR acc: 99.500000, Val acc: 97.285714 Tst acc: 97.062500
+Learning rate: 1.000000E-01 Regularization strength: 2.500000E-05, TR acc: 99.500000, Val acc: 97.285714 Tst acc: 97.187500
+Learning rate: 1.000000E-01 Regularization strength: 3.000000E-05, TR acc: 99.500000, Val acc: 97.285714 Tst acc: 97.062500
+Learning rate: 1.000000E-01 Regularization strength: 4.000000E-05, TR acc: 99.571429, Val acc: 97.321429 Tst acc: 97.312500
+Learning rate: 1.000000E-01 Regularization strength: 5.000000E-05, TR acc: 99.500000, Val acc: 97.250000 Tst acc: 97.062500
+------------------------------------------------------
+Learning rate: 1.000000E-02 Regularization strength: 1.000000E-05, TR acc: 97.285714, Val acc: 94.821429 Tst acc: 95.562500
+Learning rate: 1.000000E-02 Regularization strength: 1.500000E-05, TR acc: 97.357143, Val acc: 94.892857 Tst acc: 95.687500
+Learning rate: 1.000000E-02 Regularization strength: 2.000000E-05, TR acc: 97.285714, Val acc: 94.821429 Tst acc: 95.562500
+Learning rate: 1.000000E-02 Regularization strength: 2.500000E-05, TR acc: 97.285714, Val acc: 94.821429 Tst acc: 95.562500
+Learning rate: 1.000000E-02 Regularization strength: 3.000000E-05, TR acc: 97.357143, Val acc: 94.892857 Tst acc: 95.687500
+Learning rate: 1.000000E-02 Regularization strength: 4.000000E-05, TR acc: 97.285714, Val acc: 94.821429 Tst acc: 95.562500
+Learning rate: 1.000000E-02 Regularization strength: 5.000000E-05, TR acc: 97.285714, Val acc: 94.821429 Tst acc: 95.562500
+------------------------------------------------------
+Learning rate: 1.000000E-03 Regularization strength: 1.000000E-05, TR acc: 92.678571, Val acc: 90.321429 Tst acc: 90.187500
+Learning rate: 1.000000E-03 Regularization strength: 1.500000E-05, TR acc: 92.678571, Val acc: 90.321429 Tst acc: 90.187500
+Learning rate: 1.000000E-03 Regularization strength: 2.000000E-05, TR acc: 92.678571, Val acc: 90.321429 Tst acc: 90.187500
+Learning rate: 1.000000E-03 Regularization strength: 2.500000E-05, TR acc: 93.285714, Val acc: 90.821429 Tst acc: 90.687500
+Learning rate: 1.000000E-03 Regularization strength: 3.000000E-05, TR acc: 92.678571, Val acc: 90.321429 Tst acc: 90.187500
+Learning rate: 1.000000E-03 Regularization strength: 4.000000E-05, TR acc: 92.678571, Val acc: 90.321429 Tst acc: 90.125000
+Learning rate: 1.000000E-03 Regularization strength: 5.000000E-05, TR acc: 92.678571, Val acc: 90.321429 Tst acc: 90.187500
+------------------------------------------------------
+Learning rate: 1.000000E-04 Regularization strength: 1.000000E-05, TR acc: 67.035714, Val acc: 63.071429 Tst acc: 62.687500
+Learning rate: 1.000000E-04 Regularization strength: 1.500000E-05, TR acc: 67.071429, Val acc: 63.035714 Tst acc: 62.687500
+Learning rate: 1.000000E-04 Regularization strength: 2.000000E-05, TR acc: 67.035714, Val acc: 63.035714 Tst acc: 62.687500
+Learning rate: 1.000000E-04 Regularization strength: 2.500000E-05, TR acc: 67.000000, Val acc: 62.892857 Tst acc: 62.687500
+Learning rate: 1.000000E-04 Regularization strength: 3.000000E-05, TR acc: 67.071429, Val acc: 62.928571 Tst acc: 62.687500
+Learning rate: 1.000000E-04 Regularization strength: 4.000000E-05, TR acc: 67.000000, Val acc: 63.107143 Tst acc: 62.625000
+Learning rate: 1.000000E-04 Regularization strength: 5.000000E-05, TR acc: 67.142857, Val acc: 63.071429 Tst acc: 62.625000
+------------------------------------------------------
+Learning rate: 2.000000E-02 Regularization strength: 1.000000E-05, TR acc: 98.142857, Val acc: 96.607143 Tst acc: 96.625000
+Learning rate: 2.000000E-02 Regularization strength: 1.500000E-05, TR acc: 98.428571, Val acc: 96.928571 Tst acc: 97.062500
+Learning rate: 2.000000E-02 Regularization strength: 2.000000E-05, TR acc: 98.392857, Val acc: 96.928571 Tst acc: 97.062500
+Learning rate: 2.000000E-02 Regularization strength: 2.500000E-05, TR acc: 98.178571, Val acc: 96.642857 Tst acc: 96.687500
+Learning rate: 2.000000E-02 Regularization strength: 3.000000E-05, TR acc: 98.214286, Val acc: 96.642857 Tst acc: 96.687500
+Learning rate: 2.000000E-02 Regularization strength: 4.000000E-05, TR acc: 98.178571, Val acc: 96.642857 Tst acc: 96.687500
+Learning rate: 2.000000E-02 Regularization strength: 5.000000E-05, TR acc: 98.214286, Val acc: 96.642857 Tst acc: 96.687500
+------------------------------------------------------
+Learning rate: 2.000000E-03 Regularization strength: 1.000000E-05, TR acc: 93.250000, Val acc: 90.821429 Tst acc: 90.687500
+Learning rate: 2.000000E-03 Regularization strength: 1.500000E-05, TR acc: 92.964286, Val acc: 90.464286 Tst acc: 90.125000
+Learning rate: 2.000000E-03 Regularization strength: 2.000000E-05, TR acc: 92.964286, Val acc: 90.464286 Tst acc: 90.125000
+Learning rate: 2.000000E-03 Regularization strength: 2.500000E-05, TR acc: 92.964286, Val acc: 90.464286 Tst acc: 90.125000
+Learning rate: 2.000000E-03 Regularization strength: 3.000000E-05, TR acc: 93.178571, Val acc: 90.750000 Tst acc: 90.687500
+Learning rate: 2.000000E-03 Regularization strength: 4.000000E-05, TR acc: 92.964286, Val acc: 90.464286 Tst acc: 90.125000
+Learning rate: 2.000000E-03 Regularization strength: 5.000000E-05, TR acc: 92.964286, Val acc: 90.464286 Tst acc: 90.125000
+------------------------------------------------------
+Learning rate: 2.000000E-04 Regularization strength: 1.000000E-05, TR acc: 88.678571, Val acc: 85.464286 Tst acc: 86.062500
+Learning rate: 2.000000E-04 Regularization strength: 1.500000E-05, TR acc: 90.321429, Val acc: 87.214286 Tst acc: 87.375000
+Learning rate: 2.000000E-04 Regularization strength: 2.000000E-05, TR acc: 67.000000, Val acc: 62.964286 Tst acc: 62.625000
+Learning rate: 2.000000E-04 Regularization strength: 2.500000E-05, TR acc: 67.000000, Val acc: 63.000000 Tst acc: 62.625000
+Learning rate: 2.000000E-04 Regularization strength: 3.000000E-05, TR acc: 90.321429, Val acc: 87.214286 Tst acc: 87.375000
+Learning rate: 2.000000E-04 Regularization strength: 4.000000E-05, TR acc: 92.964286, Val acc: 89.821429 Tst acc: 90.187500
+Learning rate: 2.000000E-04 Regularization strength: 5.000000E-05, TR acc: 92.964286, Val acc: 89.821429 Tst acc: 90.187500
+------------------------------------------------------
+Running for training: 45.00 validation: 45.00 test: 10.00 
+Running for lengths training:  32, validation: 32, test: 8 
+
+Learning rate: 1.000000E-01 Regularization strength: 1.000000E-05, TR acc: 99.562500, Val acc: 97.968750 Tst acc: 97.250000
+Learning rate: 1.000000E-01 Regularization strength: 1.500000E-05, TR acc: 99.625000, Val acc: 98.031250 Tst acc: 97.250000
+Learning rate: 1.000000E-01 Regularization strength: 2.000000E-05, TR acc: 99.562500, Val acc: 98.000000 Tst acc: 97.375000
+Learning rate: 1.000000E-01 Regularization strength: 2.500000E-05, TR acc: 99.531250, Val acc: 98.000000 Tst acc: 97.375000
+Learning rate: 1.000000E-01 Regularization strength: 3.000000E-05, TR acc: 99.562500, Val acc: 98.000000 Tst acc: 97.375000
+Learning rate: 1.000000E-01 Regularization strength: 4.000000E-05, TR acc: 99.531250, Val acc: 97.968750 Tst acc: 97.250000
+Learning rate: 1.000000E-01 Regularization strength: 5.000000E-05, TR acc: 99.562500, Val acc: 98.000000 Tst acc: 97.250000
+------------------------------------------------------
+Learning rate: 1.000000E-02 Regularization strength: 1.000000E-05, TR acc: 96.687500, Val acc: 94.312500 Tst acc: 95.250000
+Learning rate: 1.000000E-02 Regularization strength: 1.500000E-05, TR acc: 96.687500, Val acc: 94.281250 Tst acc: 95.250000
+Learning rate: 1.000000E-02 Regularization strength: 2.000000E-05, TR acc: 96.687500, Val acc: 94.312500 Tst acc: 95.375000
+Learning rate: 1.000000E-02 Regularization strength: 2.500000E-05, TR acc: 96.593750, Val acc: 94.375000 Tst acc: 95.375000
+Learning rate: 1.000000E-02 Regularization strength: 3.000000E-05, TR acc: 97.500000, Val acc: 95.562500 Tst acc: 96.375000
+Learning rate: 1.000000E-02 Regularization strength: 4.000000E-05, TR acc: 96.593750, Val acc: 94.375000 Tst acc: 95.375000
+Learning rate: 1.000000E-02 Regularization strength: 5.000000E-05, TR acc: 96.687500, Val acc: 94.312500 Tst acc: 95.250000
+------------------------------------------------------
+Learning rate: 1.000000E-03 Regularization strength: 1.000000E-05, TR acc: 93.656250, Val acc: 90.875000 Tst acc: 91.125000
+Learning rate: 1.000000E-03 Regularization strength: 1.500000E-05, TR acc: 93.656250, Val acc: 90.875000 Tst acc: 91.125000
+Learning rate: 1.000000E-03 Regularization strength: 2.000000E-05, TR acc: 93.656250, Val acc: 90.843750 Tst acc: 91.125000
+Learning rate: 1.000000E-03 Regularization strength: 2.500000E-05, TR acc: 93.625000, Val acc: 90.843750 Tst acc: 91.125000
+Learning rate: 1.000000E-03 Regularization strength: 3.000000E-05, TR acc: 93.656250, Val acc: 90.875000 Tst acc: 91.125000
+Learning rate: 1.000000E-03 Regularization strength: 4.000000E-05, TR acc: 93.687500, Val acc: 90.875000 Tst acc: 91.125000
+Learning rate: 1.000000E-03 Regularization strength: 5.000000E-05, TR acc: 93.656250, Val acc: 90.875000 Tst acc: 91.250000
+------------------------------------------------------
+Learning rate: 1.000000E-04 Regularization strength: 1.000000E-05, TR acc: 66.781250, Val acc: 64.093750 Tst acc: 64.125000
+Learning rate: 1.000000E-04 Regularization strength: 1.500000E-05, TR acc: 66.812500, Val acc: 64.218750 Tst acc: 64.250000
+Learning rate: 1.000000E-04 Regularization strength: 2.000000E-05, TR acc: 66.750000, Val acc: 64.062500 Tst acc: 64.125000
+Learning rate: 1.000000E-04 Regularization strength: 2.500000E-05, TR acc: 66.750000, Val acc: 64.093750 Tst acc: 64.250000
+Learning rate: 1.000000E-04 Regularization strength: 3.000000E-05, TR acc: 66.812500, Val acc: 64.093750 Tst acc: 64.125000
+Learning rate: 1.000000E-04 Regularization strength: 4.000000E-05, TR acc: 66.812500, Val acc: 64.187500 Tst acc: 64.125000
+Learning rate: 1.000000E-04 Regularization strength: 5.000000E-05, TR acc: 66.781250, Val acc: 64.062500 Tst acc: 64.125000
+------------------------------------------------------
+Learning rate: 2.000000E-02 Regularization strength: 1.000000E-05, TR acc: 97.812500, Val acc: 96.250000 Tst acc: 97.000000
+Learning rate: 2.000000E-02 Regularization strength: 1.500000E-05, TR acc: 97.781250, Val acc: 96.187500 Tst acc: 96.875000
+Learning rate: 2.000000E-02 Regularization strength: 2.000000E-05, TR acc: 97.781250, Val acc: 96.218750 Tst acc: 96.875000
+Learning rate: 2.000000E-02 Regularization strength: 2.500000E-05, TR acc: 97.781250, Val acc: 96.218750 Tst acc: 96.875000
+Learning rate: 2.000000E-02 Regularization strength: 3.000000E-05, TR acc: 96.593750, Val acc: 94.218750 Tst acc: 94.750000
+Learning rate: 2.000000E-02 Regularization strength: 4.000000E-05, TR acc: 97.750000, Val acc: 96.250000 Tst acc: 97.000000
+Learning rate: 2.000000E-02 Regularization strength: 5.000000E-05, TR acc: 97.781250, Val acc: 96.250000 Tst acc: 97.000000
+------------------------------------------------------
+Learning rate: 2.000000E-03 Regularization strength: 1.000000E-05, TR acc: 95.156250, Val acc: 92.906250 Tst acc: 93.875000
+Learning rate: 2.000000E-03 Regularization strength: 1.500000E-05, TR acc: 95.156250, Val acc: 92.906250 Tst acc: 93.875000
+Learning rate: 2.000000E-03 Regularization strength: 2.000000E-05, TR acc: 95.156250, Val acc: 92.906250 Tst acc: 93.875000
+Learning rate: 2.000000E-03 Regularization strength: 2.500000E-05, TR acc: 95.156250, Val acc: 92.906250 Tst acc: 93.875000
+Learning rate: 2.000000E-03 Regularization strength: 3.000000E-05, TR acc: 95.156250, Val acc: 92.906250 Tst acc: 93.875000
+Learning rate: 2.000000E-03 Regularization strength: 4.000000E-05, TR acc: 95.156250, Val acc: 92.906250 Tst acc: 93.875000
+Learning rate: 2.000000E-03 Regularization strength: 5.000000E-05, TR acc: 95.125000, Val acc: 92.906250 Tst acc: 93.875000
+------------------------------------------------------
+Learning rate: 2.000000E-04 Regularization strength: 1.000000E-05, TR acc: 91.593750, Val acc: 88.812500 Tst acc: 88.125000
+Learning rate: 2.000000E-04 Regularization strength: 1.500000E-05, TR acc: 66.812500, Val acc: 64.125000 Tst acc: 64.125000
+Learning rate: 2.000000E-04 Regularization strength: 2.000000E-05, TR acc: 91.625000, Val acc: 88.812500 Tst acc: 88.125000
+Learning rate: 2.000000E-04 Regularization strength: 2.500000E-05, TR acc: 91.593750, Val acc: 88.812500 Tst acc: 88.125000
+Learning rate: 2.000000E-04 Regularization strength: 3.000000E-05, TR acc: 91.593750, Val acc: 88.812500 Tst acc: 88.125000
+Learning rate: 2.000000E-04 Regularization strength: 4.000000E-05, TR acc: 91.593750, Val acc: 88.812500 Tst acc: 88.125000
+Learning rate: 2.000000E-04 Regularization strength: 5.000000E-05, TR acc: 66.750000, Val acc: 64.125000 Tst acc: 64.125000
+------------------------------------------------------
+Experiment Finished Date/Time: Fri Nov 17 19:06:55 2017
