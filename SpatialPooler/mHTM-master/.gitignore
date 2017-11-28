@@ -1,0 +1,6 @@
+*.pyc
+*.png
+results
+dev/results
+dev/_private
+.idea/
