@@ -7,6 +7,9 @@ def main():
 
     # Parameters to construct cortical structure
     nsamples, nbits, pct_active = 500, 1024, 0.4
+    num_of_objs, num_of_imgs = 100, 72
+    data_path, sdr_path =  'pixel_binary/', 'sdrs/'
+
     seed = 123456789
     kargs = {
         'ninputs': nbits, 'ncolumns': 1024, 'nactive': int(nbits * 0.2), 'global_inhibition': True,
@@ -17,16 +20,11 @@ def main():
 
     sp = SPRegion(**kargs)
 
-    num_of_objs, num_of_imgs = 100, 72
-
-    data_path, sdr_path =  'pixel_binary/', 'sdrs/'
-    sdrs = np.zeros((num_of_imgs, nbits), dtype=np.int64)
-
     for j in range(num_of_objs):
         obj_str = 'obj'+str(j+1)
         obj_path = data_path + obj_str + '.mat'
         data_content = extract_mat_content(obj_path, 'obj')
-
+        sdrs = np.zeros((num_of_imgs, nbits), dtype=np.int64)
         for i in range(len(data_content)):
             sp.fit(data_content[i])
             sp_output = sp.predict(data_content[i])  
@@ -35,7 +33,6 @@ def main():
 
         sdr_mat = sdr_path + 'sdrObj' + str(j+1) + '.mat'
         sio.savemat(sdr_mat, mdict={'obj': sdrs})
-        sdrs = np.zeros((num_of_imgs, nbits), dtype=np.int64)
 
 if __name__ == '__main__':
     main()
