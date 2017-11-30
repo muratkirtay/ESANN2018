@@ -1,12 +1,12 @@
 # ESAAN 2017 
 This repository consists of the data - including scripts, folders, and images- to reproduce the results of the submitted paper to ESAAN 2017.  
 
-> This paper reports our work on object recognition by using the spatial pooler of Hierarchical Temporal Memory (HTM) as a method for feature selection. To perform recognition task, we employed this phase to select features from COIL-100 dataset. We benchmarked the results with the state-of-the-art feature extraction methods while using the different amounts of training data (from $5%$ to $45%$). The results indicate that the performed method is effective for object recognition with a low amount of training data in which the hand-engineered state-of-the-art feature extraction methods show limitations.  
+> **Abstract:** This paper reports our work on object recognition by using the spatial pooler of Hierarchical Temporal Memory (HTM) as a method for feature selection. To perform recognition task, we employed this phase to select features from COIL-100 dataset. We benchmarked the results with the state-of-the-art feature extraction methods while using the different amounts of training data (from 5% to 45%). The results indicate that the performed method is effective for object recognition with a low amount of training data in which the hand-engineered state-of-the-art feature extraction methods show limitations.  
 
 
 ## Folders and content descriptions
 * **COIL100:** Downsized (32x32) images from the Columbia University Image Library (COIL-100) dataset [1].
-* **DATA:** Various data folders saved during pipeline implementation.
+* **DATA:** Various data folders saved during pipeline implementation.  
 	* **pixel:** Unprocessed pixel vector for each image. 
 	* **hog:**   Histogram oriented gradients. 
 	* **nhistogram:** Normalized 3D Color Histograms 
