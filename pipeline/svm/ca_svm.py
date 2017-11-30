@@ -4,11 +4,9 @@ import seaborn as sns
 import time
 import logging as lg
 import recognition_functions as sfuncs
-import os
 
 np.random.seed(42)
 fname = 'logs/sdr_svm.log'
-os.system('rm -f '+ fname)
 
 desc = "Multi class SVM with cortical activation vectors as inputs"
 init = time.time()
