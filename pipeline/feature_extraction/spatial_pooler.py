@@ -5,7 +5,7 @@ import scipy.io as sio
 def main():
 
     # Parameters to construct cortical structure
-    nsamples, nbits, pct_active = 500, 1024, 0.4
+    nbits, pct_active = 1024, 0.4
     num_of_objs, num_of_imgs = 100, 72
     data_path, sdr_path =  'pixel_binary/', 'sdrs/'
 
